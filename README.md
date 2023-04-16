@@ -1,5 +1,5 @@
 # Emirp-Prime-Number-3D-Plotter
-Emirp prime numbers are primes that can are primes in both directions you read the digits, for example  13 and 31. This script asks a range between two numbers, and then depending on the versions prints a list, a 2D plot, or a multithread rendered 3D plot. That last one gives an interesting image on how they are distributed in specific regions of the space.
+Emirp prime numbers are primes that are still primes in both directions you read the digits, for example 13 and 31. This script asks a range between two numbers, and then depending on the version of the script, it prints a list, a 2D plot, or a multithread rendered 3D plot. That last one gives an interesting image on how they are distributed in specific regions of the space.
 
 ![emirp3](https://user-images.githubusercontent.com/113304088/232337798-aa698be3-9c2b-479f-bd3a-1ba64e13595d.png)
 
