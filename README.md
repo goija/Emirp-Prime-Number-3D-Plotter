@@ -7,6 +7,8 @@ The term "emirp" itself is simply "prime" spelled backwards, and was coined by t
 
 One practical use of emirp numbers is in cryptography, where prime numbers are used extensively in the creation of secure encryption algorithms. Emirps can be used to generate pairs of prime numbers that are distinct from each other, making them potentially useful in cryptography applications.
 
+![emirpgif2 GIF](https://user-images.githubusercontent.com/113304088/232342455-4675dfc2-279f-4db0-b3cb-422cfad45622.gif)
+
 Emirps are also of interest to recreational mathematicians, who enjoy discovering and studying different types of numbers and number patterns. In addition to generating lists of emirps, mathematicians have also explored other properties of emirps, such as the distribution of their digits and the frequency with which they appear.
 
 Emirps can also be used to create aesthetically pleasing designs and images. For example, by plotting emirp numbers on a graph, one can create patterns that are visually interesting. 
